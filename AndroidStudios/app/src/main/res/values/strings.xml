@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">act1</string>
+    <string name="botonHijo">Solicitar</string>
+    <string name="imagenDataBase">imagenDataBase</string>
+    <string name="title_activity_grid_layout">gridLayoutActivity</string>
+    <string name="Grid">Informacion</string>
+
+</resources>
